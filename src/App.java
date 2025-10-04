@@ -1,9 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        
-        var nombre = "Juan";
-        System.out.println("Hola " + nombre);
 
+        var nombre = "Juan";
+        System.out.println("Hola  " + nombre);
 
         nombre = nombre.toUpperCase();
 
@@ -11,7 +10,6 @@ public class App {
 
         nombre = nombre.toLowerCase();
         System.out.printf("Hola %s%n", nombre);
-
 
     }
 }
