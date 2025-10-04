@@ -33,7 +33,7 @@ public class calculadoraModular {
             case 4 -> dividir(sc);
             case 5 -> modulo(sc);
             case 0 -> System.out.println("Saliendo de la calculadora. ¡Hasta luego!");
-            default -> System.out.println("Opción no válida. Por favor, seleccione una opción del menú.");
+            default -> System.out.println("Opción no válida.. Por favor, seleccione una opción del menú.");
         }
 
         if (opcion != 0) {
