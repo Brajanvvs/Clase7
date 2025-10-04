@@ -117,7 +117,7 @@ public class calculadoraModular {
 
         System.out.printf("El Modulo de %,d %% %,d es = %,d \n", num1, num2, resultado);
 
-        System.out.println("Presione Enter para continuar...");
+        System.out.println("Presione Enter para continuar....");
         input.nextLine();
     }
 
